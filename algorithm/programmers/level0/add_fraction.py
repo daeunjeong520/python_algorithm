@@ -1,5 +1,4 @@
 # 분수의 덧셈
-
 def gcd(a, b):
     while b > 0:
         a, b = b, a % b
